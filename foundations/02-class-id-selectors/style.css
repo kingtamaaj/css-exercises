@@ -1,0 +1,21 @@
+p.pink {
+    background-color: rgba(247, 139, 175, 0.952);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+
+}
+
+#even {
+    color: rgb(0, 64, 202);
+    font-size: 36px;
+}
+
+p.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(123, 255, 123);
+    font-size: 24px;
+    font-weight: 800;
+}
+
