@@ -1,0 +1,11 @@
+* {
+    color: white;
+}
+
+div {
+    background-color: red;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+
+}
