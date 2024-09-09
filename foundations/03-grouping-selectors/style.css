@@ -1,7 +1,7 @@
 .black-button,
 .yellow-button{
-    font-size: 28px;
     font-family: 'Helvetica', 'Times New Roman', 'san-serif';
+    font-size: 28px;
 }
 .black-button {
     background-color: black;
@@ -9,5 +9,4 @@
 }
 .yellow-button {
     background-color: yellow;
-    color: black;
 }
